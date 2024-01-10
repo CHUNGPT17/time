@@ -114,7 +114,7 @@ jamsh='/usr/bin/jam.sh'
 jamup='/root/jamup.sh'
 [[ -e "$jamup" ]] && [[ -f "$jamsh" ]] && rm -f "$jamsh" && mv "$jamup" "$jamsh"
 [[ -e "$jamup" ]] && [[ ! -f "$jamsh" ]] && mv "$jamup" "$jamsh"
-echo -e 'time_open_wrt: update thành công.'
+echo -e 'jam.sh: update thành công.'
 chmod +x "$jamsh"
 EOF
 	sed -i 's/\r$//' "$jamup2"
