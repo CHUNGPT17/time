@@ -104,7 +104,7 @@ function sandal() {
 if [[ "$1" == "update" ]]; then
 	echo -e "${nmfl}: Update tệp lệnh..."
 	echo -e "${nmfl}: Đang tải tệp lệnh..."
-	wget --no-check-certificate "https://raw.githubusercontent.com/CHUNGSEV/time/main/time_open_wrt.txt" -O "$jamup"
+	wget --no-check-certificate "https://raw.githubusercontent.com/CHUNGSEV/time/main/time_open_wrt.sh" -O "$jamup"
 	chmod +x "$jamup"
 	sed -i 's/\r$//' "$jamup"
 	cat << "EOF" > "$jamup2"
