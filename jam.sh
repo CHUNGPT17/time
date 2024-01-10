@@ -110,7 +110,7 @@ if [[ "$1" == "update" ]]; then
 	cat << "EOF" > "$jamup2"
 #!/bin/sh
 # Đồng bộ ngày giờ bằng tên miền/URL
-jamsh='/usr/bin/time_open_wrt'
+jamsh='/usr/bin/jam.sh'
 jamup='/root/jamup.sh'
 [[ -e "$jamup" ]] && [[ -f "$jamsh" ]] && rm -f "$jamsh" && mv "$jamup" "$jamsh"
 [[ -e "$jamup" ]] && [[ ! -f "$jamsh" ]] && mv "$jamup" "$jamsh"
