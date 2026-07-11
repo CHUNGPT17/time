@@ -210,7 +210,7 @@ http://192.168.1.163:8889/udp/225.1.2.227:30120
 #EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) (HD 8Mbps)
 http://192.168.1.163:8889/udp/225.1.2.211:30120
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
-http://192.168.1.163:8889/udp/225.1.1.112:30120
+http://192.168.1.163:8889/udp/225.1.2.233:30120
 #EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World (HD 8Mbps)
 http://192.168.1.163:8889/udp/225.1.1.196:30120
 #EXTINF:0 tvg-id="kix" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX (HD 8Mbps)
