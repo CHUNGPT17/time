@@ -196,7 +196,7 @@ http://192.168.3.166:8889/udp/225.1.1.138:30120
 #EXTINF:0 tvg-id="cinemaworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
 http://192.168.3.166:8889/udp/225.1.1.142:30120
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8Mbps)
-http://192.168.3.166:8889/udp/225.1.2.86:30120
+http://192.168.3.166:8889/udp/225.1.2.157:30120
 #EXTINF:0 tvg-id="cna" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 8Mbps)
 http://192.168.3.166:8889/udp/225.1.1.202:30120
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CNBC.png",CNBC (HD 8Mbps)
